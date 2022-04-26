@@ -1,7 +1,7 @@
 Hello !!! 👋 I´m Andrés ヽ(•‿•)ノ
 
-- 🔭 I’m currently contributing on the front side of a Web3 project, learning Typescript and NextJS
-- 💻 JS, React, Redux, Express, Sequelize, NodeJS, PostgreSQL, CSS
+- 🔭 I've worked on academic projects involving modern front-end development, RESTful APIs design, databases and web3, applying SCRUM methodologies and GIT version control
+- 💻 Javascript | React | Typescript | NodeJS | NextJS | PostgreSQL | Audio engineer
 - 🎧 Experience with digital audio signals, DSP and sound synthesis
 
 - 📫 vilaandres@gmail.com
