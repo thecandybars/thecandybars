@@ -4,6 +4,6 @@ Hello !!! 👋 I´m Andrés ヽ(•‿•)ノ
 - 💻 Javascript | React | Typescript | NodeJS | NextJS | PostgreSQL | Audio engineer
 - 🎧 Experience with digital audio signals, DSP and sound synthesis
 
-- 📫 vilaandres@gmail.com
+- 📫 andresvilainfante@gmail.com
 - 🔗 https://www.linkedin.com/in/andresviladev/
 - 📱 (57) 3175280597
