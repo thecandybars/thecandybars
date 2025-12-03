@@ -12,7 +12,7 @@ I’m a Frontend-leaning Full-Stack Developer with a strong focus on user experi
 
 🧰 Tech Stack (most used)
 
-Frontend: React · Next.js · Typescript · Zustand · Material UI · Tailwind
+Frontend: React · Typescript · Zustand · Material UI
 Mapping & 3D: Mapbox GL JS · Three.js · React-Three-Fiber
 Backend: Node.js · Express · PostgreSQL · Sequelize
 Other: IPFS · Git · Vercel · Figma · Web Audio · DSP
