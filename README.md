@@ -1,11 +1,26 @@
-Hello !!! 👋 I´m Andrés ヽ(•‿•)ノ
+👋 ¡Hola! Soy Andrés
 
-- 🤓 Creative problem-solving, leveraging my technical skills and a keen sense of user sensibility to innovate and overcome challenges.
-- 🏭 Working as a full-stack developer for startups, I've navigated the complete project lifecycle—capturing stakeholder visions, choosing the right technologies, designing databases, developing APIs, and crafting user-friendly interfaces.
-- 🔭 My approach is characterized by a nimble, agile approach, ensuring swift iterations and a focus on delivering value through both backend robustness and frontend elegance.
-- 💻 Javascript | React | MaterialUI | Redux | Typescript | NodeJS | NextJS | PostgreSQL | Express
-- 🎧 Experience with digital audio signals, DSP and sound synthesis
+I’m a Frontend-leaning Full-Stack Developer with a strong focus on user experience, interactive interfaces, and modern web technologies. Over the past years I’ve worked across startups, cultural institutions, and creative technology projects—designing intuitive user journeys, building scalable architectures, and bringing complex ideas to life on the web.
 
-- 📫 andresvilainfante@gmail.com
-- 🔗 https://www.linkedin.com/in/andresviladev/
-- 📱 (57) 3175280597
+🧠 Creative problem solver: I love turning ambiguity into well-designed interfaces and robust systems, balancing technical execution with strong UX sensibility.
+
+🛠️ End-to-end builder: From gathering needs and defining architecture to implementing APIs and crafting responsive, accessible UIs. I’m comfortable across the full lifecycle.
+
+🎨 Interface & Interaction: Specialized in interactive maps, multimedia experiences, and highly dynamic frontend environments using React, Mapbox GL, Three.js, and modern state management tools.
+
+🔊 Creative tech: Experience with digital audio, DSP, and sound synthesis—bridging code, design, and creative tools.
+
+🧰 Tech Stack (most used)
+
+Frontend: React · Next.js · Typescript · Zustand · Material UI · Tailwind
+Mapping & 3D: Mapbox GL JS · Three.js · React-Three-Fiber
+Backend: Node.js · Express · PostgreSQL · Sequelize
+Other: IPFS · Git · Vercel · Figma · Web Audio · DSP
+
+📫 Contact
+
+📧 andresvilainfante@gmail.com
+
+🔗 www.linkedin.com/in/andresviladev/
+
+📱 (+57) 317 528 0597
